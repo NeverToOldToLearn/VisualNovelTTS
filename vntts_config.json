@@ -1,0 +1,25 @@
+{
+    "speaker_configs": {
+        "Speaker1": {
+            "id": 198
+        },
+        "Speaker2": {
+            "id": 208
+        },
+        "Speaker3": {
+            "id": 218
+        },
+        "Speaker4": {
+            "id": 228
+        },
+        "Speaker5": {
+            "id": 238
+        },
+        "Speaker6": {
+            "id": 248
+        }
+    },
+    "name_to_speaker": {
+        "Rick": "Speaker1"
+    }
+}
